@@ -7,8 +7,11 @@ Main goal for them is: Impementation must be a one-liner (and of course it must 
 Languages:
 
 - C#
+- PHP
+- Perl
 - Python
 - JavaScript
+- SQL (XD)
 
 
 
