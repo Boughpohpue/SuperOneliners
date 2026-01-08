@@ -1,5 +1,5 @@
 # SuperOneliners
-A collection of minima, one-liner implementations of algorithms solving some of basic mathematical problems.
+A collection of minimal, one-liner implementations of algorithms solving some of basic mathematical problems.
 Main goal for them is: Impementation must be a one-liner (and of course it must be working ;))
 
 
